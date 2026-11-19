@@ -1,3 +1,4 @@
+<img width="1600" height="715" alt="protocols" src="https://github.com/user-attachments/assets/1e2b0470-cf5d-4363-96c9-b4e59bfe9674" />
 # ESP32-Based Industrial Motor Health Monitoring System
 
 ## 📌 Project Overview
